@@ -2,3 +2,4 @@
 node_modules/
 .htaccess
 db/db.php
+!db/.htaccess
